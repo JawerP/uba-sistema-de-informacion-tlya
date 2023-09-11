@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\bin\Debug\PrimerosEjercicios.exe.config
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\bin\Debug\PrimerosEjercicios.exe
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\bin\Debug\PrimerosEjercicios.pdb
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\obj\Debug\PrimerosEjercicios.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\obj\Debug\PrimerosEjercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\obj\Debug\PrimerosEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\obj\Debug\PrimerosEjercicios.exe
+C:\Users\User\source\repos\JawerP\uba-sistema-de-informacion-tlya\PrimerosEjercicios\obj\Debug\PrimerosEjercicios.pdb
